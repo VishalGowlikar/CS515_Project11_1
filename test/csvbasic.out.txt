@@ -1,0 +1,1 @@
+Sums of specified columns: 145.0
