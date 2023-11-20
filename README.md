@@ -4,14 +4,14 @@
 Gowlikar Vishal
 Vgowlika@stevens.edu
 
-[Github Repository](https://github.com/rahul240699/CS515-Project-1)
+[Github Repository](https://github.com/VishalGowlikar/CS515_Project_1)
 
 ## Spending the time on the project
 I spent around 20 hours approximately on the project.
 
 ## Testing of the code
 1.I began by sketching out the code's logic on paper, then put it into action on my computer terminal for testing. 
-2. Later on I wrote test cases in the format specified in description, and used the test harness to run the tests and capturing the output, to compare with the expected out in the corresponding .out files for the test.
+2. 
 
 ## Unresolved Bugs or Issues
 1. I had quiet experience to push the files to git using gitbash but due to some extensions in my computer i could not commit and push the files to github account using gitbash, 
