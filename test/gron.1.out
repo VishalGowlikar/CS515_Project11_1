@@ -1,0 +1,15 @@
+json = {};
+.menu = {};
+.menu.id = "file";
+.menu.popup = {};
+.menu.popup.menuitem = [];
+.menu.popup.menuitem[0] = {};
+.menu.popup.menuitem[0].onclick = "CreateNewDoc()";
+.menu.popup.menuitem[0].value = "New";
+.menu.popup.menuitem[1] = {};
+.menu.popup.menuitem[1].onclick = "opendoc()";
+.menu.popup.menuitem[1].value = "Open";
+.menu.popup.menuitem[2] = {};
+.menu.popup.menuitem[2].onclick = "CloseDoc()";
+.menu.popup.menuitem[2].value = "Close";
+.menu.popup.value = "file";
