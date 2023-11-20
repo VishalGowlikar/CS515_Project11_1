@@ -12,7 +12,7 @@ def sum_columns(csv_file, columns):
                     col_value = float(row[int(col_index)])
                     sums[i] += col_value
                 except (ValueError, IndexError):
-                    # Handle non-numeric values or missing columns
+                    
                     pass
     
     return sums
