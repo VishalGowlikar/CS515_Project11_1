@@ -11,7 +11,8 @@ I spent around 20 hours approximately on the project.
 
 ## Testing of the code
 1.I began by sketching out the code's logic on paper, then put it into action on my computer terminal for testing. 
-2. 
+
+ 
 
 ## Unresolved Bugs or Issues
 1. I had quiet experience to push the files to git using gitbash but due to some extensions in my computer i could not commit and push the files to github account using gitbash, 
